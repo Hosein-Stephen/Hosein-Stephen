@@ -7,6 +7,6 @@
 
 <h1><a href="https://discord.gg/VdFPUmnfst">Discord Account</a></h1>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Hosein-Stephen"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-</p>
+<h1><a href="https://github.com/Hosein-Stephen">!𝗦tepheɴ ⁱˢ ʰᵉʳᵉ#1996</a></h1>
+
 <img src="https://cdn.discordapp.com/attachments/1068975715615256618/1069214440429457468/Screenshot_2023-01-29_144616.png" >
