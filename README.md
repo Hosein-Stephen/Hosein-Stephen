@@ -8,4 +8,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <h1>Discord:<a href="https://discord.gg/VdFPUmnfst">hoseinstephen</a></h1>
 
-<img src="https://cdn.discordapp.com/attachments/1068975715615256618/1069214440429457468/Screenshot_2023-01-29_144616.png" >
+<img src="https://github.com/Hosein-Stephen/Hosein-Stephen/assets/108404116/7631f1d1-cb5a-4a16-b8b9-84815e0fbd90" >
